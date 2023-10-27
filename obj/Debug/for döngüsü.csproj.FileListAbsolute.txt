@@ -1,0 +1,8 @@
+C:\Users\Umutcan\Desktop\c#\for döngüsü\bin\Debug\for döngüsü.exe.config
+C:\Users\Umutcan\Desktop\c#\for döngüsü\bin\Debug\for döngüsü.exe
+C:\Users\Umutcan\Desktop\c#\for döngüsü\bin\Debug\for döngüsü.pdb
+C:\Users\Umutcan\Desktop\c#\for döngüsü\obj\Debug\for döngüsü.csproj.AssemblyReference.cache
+C:\Users\Umutcan\Desktop\c#\for döngüsü\obj\Debug\for döngüsü.csproj.SuggestedBindingRedirects.cache
+C:\Users\Umutcan\Desktop\c#\for döngüsü\obj\Debug\for döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\Umutcan\Desktop\c#\for döngüsü\obj\Debug\for döngüsü.exe
+C:\Users\Umutcan\Desktop\c#\for döngüsü\obj\Debug\for döngüsü.pdb
